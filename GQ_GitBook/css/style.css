@@ -1,0 +1,140 @@
+*{
+    margin:0;
+
+    padding: 0;
+
+}
+
+.clear{
+    clear: both;
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    border: 0px;
+    border-top: 1px solid #eee;
+}
+
+a{
+    text-decoration: none;
+}
+
+/*titlearea code*/
+#titlename{
+    font-size: 14px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+    float:left;
+}
+img{
+
+    margin-top: 3px;
+    margin-right: 8px;
+}
+h1{
+    float:right;
+}
+
+#titlelist{
+    float:right;
+}
+
+.pullright{
+    float: right;
+}
+
+.btn{
+    padding: 6px 12px;
+    margin: 2px 4px;
+
+    font-size: 14px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+.btn-signin{
+    border: 1px solid #c9c9c9;
+    background: linear-gradient(#fcfcfc,#ededed);
+}
+
+
+/*registerarea code*/
+#registerarea{
+
+}
+
+
+
+
+/*layout code*/
+#wrapper{
+    height: 2128px;
+}
+
+#titlearea{
+    /*width: 1345px;*/
+    height: 38px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    padding-left: 15px;
+    padding-right: 15px;
+
+    margin-left: 63.5px;
+    margin-right: 63.5px;
+}
+
+#registerarea{
+
+    height: 488px;
+    background: darkgray;
+    padding-top: 60px;
+    padding-bottom: 110px;
+}
+
+#newinfoarea{
+    height: 22px;
+    background: white;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#featurearea{
+    height: 292px;
+    background: darkgray;
+    padding-top: 60px;
+
+}
+
+#productarea{
+    height:163px;
+    background:white;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+#morerefarea{
+    height:170px;
+    background: darkgray;
+}
+
+#picturearea {
+    height: 250px;
+    background: white;
+    padding-top: 60px;
+}
+
+#signuparea{
+    height:98px;
+    background: darkgray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#copyrightarea{
+    height: 60px;
+    background: white;
+}
